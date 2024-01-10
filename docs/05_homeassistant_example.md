@@ -10,7 +10,7 @@ TOC
 # Home Assistant Example
 If you are using Home Assistant, there is an [ESP Home](http://github.com/ratgdo/esphome-ratgdo) version of ratgdo. This version is directly adoptable by your Home Assistant instance.
 
-You can also integrate with Home Assitant through MQTT. Since version 1.7, ratgdo has home assistant auto discovery over MQTT. When ratgdo boots, three discovery messages are sent via mqtt which will add a door, light and obstruction sensor entities under a single device in Home Assistant.
+You can also integrate with Home Assistant through MQTT. Since version 1.7, ratgdo has home assistant auto discovery over MQTT. When ratgdo boots, three discovery messages are sent via mqtt which will add a door, light and obstruction sensor entities under a single device in Home Assistant.
 
 There is also a link to the ratgdo configuration page from within the Home Assistant UI.
 
